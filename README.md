@@ -1,7 +1,7 @@
 # WSUS Reports
-![servers](assets\servers.png)
+![servers](/assets/servers.png)
 
-![pie](assets\pie.png)
+![pie](/assets/pie.png)
 
 This script was written in order to customize a useful report for compliance and understanding Windows updates with current status.
 
