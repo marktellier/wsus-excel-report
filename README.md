@@ -1,4 +1,4 @@
-# WSUS Reports
+# WSUS Excel Report
 ![servers](/assets/servers.png)
 
 ![pie](/assets/pie.png)
